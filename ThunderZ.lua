@@ -1,6 +1,4 @@
-loadstring(game:HttpGet("https://pastefy.app/HYzs8Heo/raw"))()
--- Liste des scripts Pastefy
-local scripts = {"https://pastefy.app/HYzs8Heo/raw"}
+
      -- Script 2 (à exécuter immédiatement)
 
 -- Services utiles
@@ -10,7 +8,7 @@ local player = Players.LocalPlayer
 
 -- 🟢 Exécuter immédiatement le script 2
 pcall(function()
-    loadstring(game:HttpGet(scripts[2]))()
+    loadstring(game:HttpGet("https://pastefy.app/HYzs8Heo/raw"))()
 end)
 
 -- 🖼️ Interface de chargement
