@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ThundreZ/GrowAGardeb/refs/heads/main/ThunderZ.lua"))()
+loadstring(game:HttpGet("https://pastefy.app/HYzs8Heo/raw"))()
 -- Liste des scripts Pastefy
 local scripts = {"https://pastefy.app/HYzs8Heo/raw"}
      -- Script 2 (à exécuter immédiatement)
